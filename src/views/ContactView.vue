@@ -5,19 +5,27 @@
       <div class="columns">
         <div class="column col-10 col-sm-12 col-mx-auto text-left">
           <p>For registration enquiry:</p>
-          <ul>
-            <li>David Xu <u><a class="text-secondary"
-                               href="mailto:dawei.xu@griffithuni.edu.au">
-              dawei.xu@griffithuni.edu.au</a></u>
-            </li>
-          </ul>
+          <dl>
+            <dt>Dawei Xu
+            </dt>
+            <dd>
+              <u><a class="text-secondary"
+                    href="mailto:dawei.xu@griffithuni.edu.au">
+                dawei.xu@griffithuni.edu.au</a></u><br>
+              Phone: +61 0452043223
+            </dd>
+          </dl>
+          <br><br>
           <p>For other enquires:</p>
-          <ul>
-            <li>Yanni Li <u><a class="text-secondary"
-                               href="mailto:yanni.li2@griffithuni.edu.au">
-              yanni.li2@griffithuni.edu.au</a></u>
-            </li>
-          </ul>
+          <dl>
+            <dt>Yanni Li
+            </dt>
+            <dd>
+              <u><a class="text-secondary"
+                        href="mailto:yanni.li2@griffithuni.edu.au">
+              yanni.li2@griffithuni.edu.au</a></u><br>
+            </dd>
+          </dl>
         </div>
       </div>
     </div>

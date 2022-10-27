@@ -93,10 +93,12 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">9:40am</p>
                     <p class="tile-title">
-                      <strong>Distinguished Professor Kerrie Mengersen</strong>, Queensland
-                      University
-                      of Technology (Confirmed)
-                      <br>Topic: Where are the vulnerable children?
+                      <strong>Professor Steven M McPhail</strong>, Centre Director, Australian
+                      Centre for Health Services Innovation (AusHSI), and Co- Director, Centre for
+                      Healthcare Transformation, Queensland University of Technology, Australia
+                      <br>Topic: A systems approach to sustainable transformation of healthcare
+                      delivery by optimizing intelligent decision support: moving beyond algorithm
+                      obsession to real-world implementation
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -132,7 +134,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">10:40am</p>
                     <p class="tile-title">
-                      MORNING TEA (30 minutes – venue: TBD)
+                      <strong>MORNING TEA</strong> (30 minutes – venue: JW Marriott Gold Coast,
+                      Tamborine Foyer)
                     </p>
                   </div>
                 </div>
@@ -191,7 +194,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">12:10am</p>
                     <p class="tile-title">
-                      LUNCH (60 minutes – venue: TBD)
+                      <strong>LUNCH BREAK</strong> (60 minutes – venue: JW Marriott Gold Coast,
+                      Tamborine Foyer)
                     </p>
                   </div>
                 </div>
@@ -205,11 +209,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">1:10pm</p>
                     <p class="tile-title">
-                      <strong>Professor Yuantong Gu</strong>, Queensland University of Technology,
-                      Australia
-                      <br>Topic: Collaborative and Transformative Research in Biomedical Technology
-                      at
-                      QUT
+                      <strong>Distinguished Professor Kerrie Mengersen</strong>, Queensland
+                      University of Technology <br>Topic: Where are the vulnerable children?
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -247,7 +248,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">2:10pm</p>
                     <p class="tile-title">
-                      AFTERNOON TEA (30 minutes – venue: TBD)
+                      <strong>AFTERNOON TEA</strong> (30 minutes – venue: JW Marriott Gold Coast,
+                      Tamborine Foyer)
                     </p>
                   </div>
                 </div>
@@ -263,7 +265,7 @@
                     <p class="tile-title">
                       <strong>Professor Yan Li</strong>, University of Southern Queensland,
                       Australia
-                      Title: Artificial intelligence for health and independent living (Confirmed)
+                      Title: Artificial intelligence for health and independent living
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -300,12 +302,14 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">3:40pm</p>
                     <p class="tile-title">
-                      <strong>Professor Steve McPhail</strong>, Queensland University of Technology
-                      (TBC)
+                      <strong>Professor Yuantong Gu</strong>, Queensland University of Technology,
+                      Australia
+                      <br>Topic: Collaborative and Transformative Research in Biomedical Technology
+                      at QUT
                     </p>
                   </div>
                   <div class="tile-action text-gray">
-                    Chair: Prof. Yongtong Gu
+                    Chair: Prof. Yuantong Gu
                   </div>
                 </div>
               </div>
@@ -358,7 +362,7 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">5:10pm</p>
                     <p class="tile-title">
-                      Break
+                      <strong>Break</strong>
                     </p>
                   </div>
                 </div>
@@ -372,7 +376,7 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">6:30pm</p>
                     <p class="tile-title">
-                      Dinner
+                      <strong>Gala Dinner</strong>
                     </p>
                   </div>
                 </div>
@@ -389,7 +393,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">8:30am</p>
                     <p class="tile-title">
-                      Arrival
+                      <strong>Arrival</strong> (Tamborine Gallery, JW Marriott Gold Coast, 158 Ferny
+                      Avenue, Gold Coast, QLD 4217)
                     </p>
                   </div>
                 </div>
@@ -477,7 +482,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">10:40am</p>
                     <p class="tile-title">
-                      MORNING TEA (30 minutes – venue: TBD)
+                      <strong>MORNING TEA</strong> (30 minutes – venue: JW Marriott Gold Coast,
+                      Tamborine Foyer)
                     </p>
                   </div>
                 </div>
@@ -534,7 +540,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">12:10am</p>
                     <p class="tile-title">
-                      LUNCH (60 minutes – venue: TBD)
+                      <strong>LUNCH BREAK</strong> (60 minutes – venue: JW Marriott Gold Coast,
+                      Tamborine Foyer)
                     </p>
                   </div>
                 </div>
@@ -553,7 +560,7 @@
                       & Communication Technology, and the Deputy Director of the Institute for
                       Integrated Intelligent Systems (Griffith University)
                       <br>Topic: Governing in the Digital Age: Use of Data for Better Policies and
-                      Public Services (Confirmed)
+                      Public Services
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -590,7 +597,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">2:10pm</p>
                     <p class="tile-title">
-                      AFTERNOON TEA (30 minutes – venue: TBD)
+                      <strong>AFTERNOON TEA</strong> (30 minutes – venue: JW Marriott Gold Coast,
+                      Tamborine Foyer)
                     </p>
                   </div>
                 </div>
@@ -641,7 +649,7 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">3:40pm</p>
                     <p class="tile-title">
-                      Jodie Austin, University of Queensland
+                      <strong>Ms. Jodie Austin</strong>, University of Queensland
                       <br>Topic: Harnessing electronic medical record data to enhance medication
                       safety
                     </p>
