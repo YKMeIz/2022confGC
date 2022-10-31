@@ -86,10 +86,7 @@ export default {
         }, {
           pic: 'y.gu.png',
           name: 'Professor YuanTong Gu',
-          position: 'ARC Industrial Transformation Training Centre—Joint Biomechanics \n'
-            + 'School of Mechanical, Medical and Process Engineering\n'
-            + 'Queensland University of Technology\n'
-            + 'Brisbane, Australia\n',
+          position: 'ARC Industrial Transformation Training Centre-Joint Biomechanics; School of Mechanical, Medical and Process Engineering, Queensland University of Technology, Brisbane, Australia',
           email: 'yuantong.gu@qut.edu.au',
           bio: 'Professor YuanTong Gu is Head of the School of Mechanical, Medical and Process Engineering at Queensland University of Technology and The Director of the Australian ARC Training Centre for Joint Biomechanics. He was a prestigious Australian Research Council (ARC) Future Fellow. Prof Gu is a world-renowned expert in computer modelling for mechanical and biomedcial engineering. He has secured more than $40M research funds in relevant fields and authored more than 400 refereed journal publications. Most of his publications are in highly-ranked journals, including Nature Communications. His publications have attracted 15K citations in Google Scholar. He was Editor-in-Chief for the Australian Journal of Mechanical Engineering and is Associate Editor for two prestigious international journals and an Editorial Board Member for five other journals. He is now an Executive Committee Member of the Australian Association on Computational Mechanics and the International Association of Applied Mechanics. Prof Gu has obtained several awards and prizes in computational mechanics, including The International Computational Methods Award and The APACM Computational Mechanics Award. He has been invited to give more than 40 plenary and invited talks at international conferences. He served as the conference chair for two international conferences and will organize The 9th Asian Pacific Congress on Computational Mechanics in 2025 at Brisbane.',
         }, {
@@ -105,8 +102,7 @@ export default {
           name: 'Professor Jianming Yong ',
           position: 'University of Southern Queensland, Australia',
           email: 'jianming.yong@usq.edu.au',
-          bio: 'Email: jianming.yong@usq.edu.au\n'
-            + 'Professor Jianming Yong is a full professor in Cybersecurity at University of Southern Queensland, Australia. He has been mainly focused on cyber & cloud security, especially in access control, privacy challenges over the cloud and IoT-based systems. He has published 130+ scholarly papers, including 44 high quality journal papers on cyber security, cloud security, access control and privacy preservation and e-learning. Some publications were published by top tier journals and leading conferences across ICT domain.',
+          bio: 'Professor Jianming Yong is a full professor in Cybersecurity at University of Southern Queensland, Australia. He has been mainly focused on cyber & cloud security, especially in access control, privacy challenges over the cloud and IoT-based systems. He has published 130+ scholarly papers, including 44 high quality journal papers on cyber security, cloud security, access control and privacy preservation and e-learning. Some publications were published by top tier journals and leading conferences across ICT domain.',
         }, {
           pic: 'a.liew.png',
           name: 'Professor Alan Liew',

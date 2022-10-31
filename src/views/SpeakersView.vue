@@ -49,8 +49,14 @@
                   <a :href="'mailto:'+people.email">
                     {{ people.email }}</a>
                 </p>
-                <p class="tile-content text-justify">
-                  {{ people.bio }}
+                <p class="tile-content text-justify" v-if="people.topic">
+                  <strong>Topic: {{ people.topic }}</strong>
+                </p>
+                <p class="tile-content text-justify" v-if="people.abstract">
+                  <strong>Abstract: </strong>{{ people.abstract }}
+                </p>
+                <p class="tile-content text-justify" v-if="people.bio">
+                  <strong>Bio: </strong>{{ people.bio }}
                 </p>
               </div>
             </div>
@@ -73,8 +79,14 @@
                   <a :href="'mailto:'+people.email">
                     {{ people.email }}</a>
                 </p>
-                <p class="tile-content text-justify">
-                  {{ people.bio }}
+                <p class="tile-content text-justify" v-if="people.topic">
+                  <strong>Topic: {{ people.topic }}</strong>
+                </p>
+                <p class="tile-content text-justify" v-if="people.abstract">
+                  <strong>Abstract: </strong>{{ people.abstract }}
+                </p>
+                <p class="tile-content text-justify" v-if="people.bio">
+                  <strong>Bio: </strong>{{ people.bio }}
                 </p>
               </div>
             </div>
@@ -99,10 +111,22 @@ export default {
             bio: 'Professor John Bell leads the Research and Innovation Division at the University of Southern Queensland. Professor Bell works to enhance the University’s research profile, its research performance and its culture of research excellence and quality research training. He oversees a coordinated focus on fostering collaborations and partnerships with government, industry and the research community, within Australia and around the world to deliver applied research outcomes that have global impact. As an outstanding researcher in his area of materials engineering and energy, Professor Bell has led projects in the development of energy efficient smart windows, dye-sensitised solar cell development, and carbonaceous materials.  He also has expertise in the area of energy efficiency and occupant comfort in buildings and has carried out extensive research with industry.  Professor Bell has received over $25 million in research funding during his 30-year career as a researcher.',
           },
           {
+            name: 'Professor YuanTong Gu',
+            pic: 'y.gu.png',
+            position: 'ARC Industrial Transformation Training Centre-Joint Biomechanics; School of Mechanical, Medical and Process Engineering, Queensland University of Technology, Brisbane, Australia',
+            bio: 'Professor YuanTong Gu is Head of the School of Mechanical, Medical and Process Engineering at Queensland University of Technology and The Director of the Australian ARC Training Centre for Joint Biomechanics. He was a prestigious Australian Research Council (ARC) Future Fellow. Prof Gu is a world-renowned expert in computer modelling for mechanical and biomedcial engineering. He has secured more than $40M research funds in relevant fields and authored more than 400 refereed journal publications. Most of his publications are in highly-ranked journals, including Nature Communications. His publications have attracted 15K citations in Google Scholar. He was Editor-in-Chief for the Australian Journal of Mechanical Engineering and is Associate Editor for two prestigious international journals and an Editorial Board Member for five other journals. He is now an Executive Committee Member of the Australian Association on Computational Mechanics and the International Association of Applied Mechanics. Prof Gu has obtained several awards and prizes in computational mechanics, including The International Computational Methods Award and The APACM Computational Mechanics Award. He has been invited to give more than 40 plenary and invited talks at international conferences. He served as the conference chair for two international conferences and will organize The 9th Asian Pacific Congress on Computational Mechanics in 2025 at Brisbane.',
+          },
+          {
             name: 'Professor Hongxiang Zhang',
             pic: 'h.zhang.png',
             position: 'Secretary General of Chinese Society of Biotechnology, China',
             bio: 'Director of the Editing and Publishing Centre of the Documentation and Information Centre of the Chinese Academy of Sciences, Executive Deputy Editor-in-Chief of the Chinese Journal of Bioengineering, Chairman of the Science Popularization Working Committee, China Coordinator, Deputy Director of the National Biological Vocational and Technical Education Steering Committee of the Chinese Ministry of Education, and editorial research of the Natural Science Journal of the Chinese Academy of Sciences Member of the Academic Committee of the Society, and editorial board member of "Research on Chinese Science and Technology Journals". Research direction: scientific journal publishing, scientific communication. Now he is mainly engaged in the editing and publishing of scientific and technological journals and research on development strategies. He has published more than 40 academic papers and participated in and presided over several national scientific and technological journals research projects. He has monitored over several research projects on development strategies in the field of biotechnology.',
+          },
+          {
+            name: 'Dr Zongze Ruan,  Consul-General',
+            pic: 'z.ruan.png',
+            position: 'Consulate-General of People’s Republic of China in Brisbane, Australia',
+            bio: 'Dr Ruan is current consul-general of Consulate-General of People’s Republic of China in Brisbane, Australia. He obtained PhD in law.',
           },
         ],
         chn: [
@@ -208,13 +232,13 @@ export default {
         ],
         aus: [
           {
-            name: 'Kerrie Mengersen, Distinguished Professo',
-            pic: 'k.mengersen.png',
-            position: 'Statistics Director, Centre for Data Science Queensland University of Technology (QUT) 2 George Street, Brisbane 4001 Australia',
-            email: 'k.mengersen@qut.edu.au',
-            topic: 'Where are the vulnerable children?',
-            abstract: 'This presentation is joint with Wala Draidi, Harriette Phililips, Owen Forbes and Aiden Price, from the QUT Centre for Data Science. Identification of spatial patterns and clusters among young people with health and developmental vulnerabilities can lead to new insights about contributing factors and facilitate more targeted, cost-effective management actions. In this presentation, I will describe some new methods that we have been exploring to address this challenge. The methods include two-step and hybrid statistical machine learning and visual analytic approaches that capitalize on the benefits of the Bayesian paradigm. A particular focus of the investigation will be on identifying the role of attendance at preschool on children’s vulnerability in their first year of school. This research provides evidence of the need for collaboration between health and education sectors in specific regions of Queensland to update current service provision policies and to ensure holistic and appropriate care is available to support children with development vulnerabilities. As part of the discussion, I will also touch on issues of data access and collation, and potential methods for sharing sensitive data. This work in progress is being undertaken in collaboration with the Queensland Children’s Hospital and a large national consortium of researchers and agencies who are constructing an Australian National Child Health and Development Atlas.',
-            bio: 'Kerrie Mengersen is a Distinguished Professor in Statistics and Director of the Centre for Data Science at QUT, Brisbane. Her research interests focus on the development of new statistical machine learning methods and computational algorithms motivated by, and as contributions to, challenges in health, the environment and industry. Most of her work is undertaken in close collaboration with teams of researchers and practitioners. Kerrie is a member of the Australian Academy of Science and the Academy of Social Sciences.',
+            name: 'Professor Steven McPhail',
+            pic: 's.mcphail.png',
+            position: 'Faculty of Health, School of Public Health & Social Work, Queensland University of Technology',
+            email: 'steven.mcphail@qut.edu.au',
+            topic: 'A systems approach to sustainable transformation of healthcare delivery by optimizing intelligent decision support: moving beyond algorithm obsession to real-world implementation',
+            abstract: 'The successful implementation of integrated electronic medical records (ieMR) in hospital settings is a commendable achievement but is perhaps best conceptualized as a foundation step on a wonderfully rewarding journey rather than a destination in its own right. As ieMR data becomes more accessible, there is often no shortage of opportunities to attempt to solve problems using artificial intelligence (AI) and advanced analytics. However, despite the development of many healthcare-related AI algorithms internationally, demonstrable large-scale sustained benefits of implemented AI solutions in hospitals with ieMRs remain elusive. This is perhaps not primarily due to technical information system challenges, but rather the complexities associated with health systems, including workforce, incentives and organizational architecture. This presentation will bring together key findings related to workforce and organizational architecture from a series of studies and real-world decision support use cases across several Australian hospitals. Although the use cases have been diverse in nature and clinical application dependent on local priorities, there have been consistent themes arising from organizational context assessments, stakeholder perceptions revealed through interviews and focus groups, and direct observation of work as done versus work as imagined.',
+            bio: 'Steve is a health systems innovator, health services researcher, health economist and clinician. He is Director of the Australian Centre for Health Services Innovation (AusHSI) and Academic Director of the Centre for Healthcare Transformation at the Queensland University of Technology, where he is the Professor of Health Services Research. He is passionate about empowering health services to deliver high-value patient-centered care, particularly improving care for vulnerable members of our community and their families. He has published more than 200 peer-reviewed journal articles, been awarded more than $100 million in competitive research funding and his work has been cited in policy-related documents from the World Bank and World Health Organisation. Steve also co-leads the MRFF funded CHD Life+ research program',
           },
           {
             name: 'Professor Brent Richards',
@@ -226,13 +250,13 @@ export default {
             bio: 'Professor Brent Richards is Medical Director of Innovation and Director of Critical Care Research at Gold Coast Hospital and Health Service, and Professor at Griffith and Bond Universities. He was previously also director of ICU for 15 years, executive director of Surgery, and chair of the state Intensive Care network. Realizing the opportunities and responsibilities in the big data sets being created in healthcare, alongside the rapidly growing capability in AI, Brent is working on ways to expand, understand and interrogate these data sets for clinical understanding, business KPIs and research opportunities, and translating this to patient outcomes. He has co-founded IntelliHQ, a not-for-profit organization bringing together start-ups, industry partners, researchers and educators to work collaboratively to unlock the potential that AI can bring to healthcare, improving value-based care and system productivity.',
           },
           {
-            name: 'Professor YuanTong Gu',
-            pic: 'y.gu.png',
-            position: 'ARC Industrial Transformation Training Centre—Joint Biomechanics. School of Mechanical, Medical and Process Engineering, Queensland University of Technology, Brisbane, Australia',
-            email: 'yuantong.gu@qut.edu.au',
-            topic: 'Collaborative and Transformative Research in Biomedical Technology at QUT',
-            abstract: 'Biomedical technology is one of QUT\'s research strengths and is ranked top nationally and internationally. QUT’s research and development of biomedical technologies focus on better patient treatments and quality of life into the future using regenerative approaches, robotics and artificial intelligence, and advanced manufacturing to expand surgical possibilities and reduce complications. This talk will give an overview of collaborative and transformative research in Biomedical Technologies at QUT. Digital technologies for biomedical technology at QUT will also be presented in this talk.',
-            bio: 'Professor YuanTong Gu is Head of the School of Mechanical, Medical and Process Engineering at Queensland University of Technology and The Director of the Australian ARC Training Centre for Joint Biomechanics. He was a prestigious Australian Research Council (ARC) Future Fellow. Prof Gu is a world-renowned expert in computer modelling for mechanical and biomedical engineering. He has secured more than $40M research funds in relevant fields and authored more than 400 refereed journal publications. Most of his publications are in highly-ranked journals, including Nature Communications. His publications have attracted 15K citations in Google Scholar. He was Editor-in-Chief for the Australian Journal of Mechanical Engineering and is Associate Editor for two prestigious international journals and an Editorial Board Member for five other journals. He is now an Executive Committee Member of the Australian Association on Computational Mechanics and the International Association of Applied Mechanics. Prof Gu has obtained several awards and prizes in computational mechanics, including The International Computational Methods Award and The APACM Computational Mechanics Award. He has been invited to give more than 40 plenary and invited talks at international conferences. He served as the conference chair for two international conferences and will organize The 9th Asian Pacific Congress on Computational Mechanics in 2025 at Brisbane.',
+            name: 'Kerrie Mengersen, Distinguished Professo',
+            pic: 'k.mengersen.png',
+            position: 'Statistics Director, Centre for Data Science Queensland University of Technology (QUT) 2 George Street, Brisbane 4001 Australia',
+            email: 'k.mengersen@qut.edu.au',
+            topic: 'Where are the vulnerable children?',
+            abstract: 'This presentation is joint with Wala Draidi, Harriette Phililips, Owen Forbes and Aiden Price, from the QUT Centre for Data Science. Identification of spatial patterns and clusters among young people with health and developmental vulnerabilities can lead to new insights about contributing factors and facilitate more targeted, cost-effective management actions. In this presentation, I will describe some new methods that we have been exploring to address this challenge. The methods include two-step and hybrid statistical machine learning and visual analytic approaches that capitalize on the benefits of the Bayesian paradigm. A particular focus of the investigation will be on identifying the role of attendance at preschool on children’s vulnerability in their first year of school. This research provides evidence of the need for collaboration between health and education sectors in specific regions of Queensland to update current service provision policies and to ensure holistic and appropriate care is available to support children with development vulnerabilities. As part of the discussion, I will also touch on issues of data access and collation, and potential methods for sharing sensitive data. This work in progress is being undertaken in collaboration with the Queensland Children’s Hospital and a large national consortium of researchers and agencies who are constructing an Australian National Child Health and Development Atlas.',
+            bio: 'Kerrie Mengersen is a Distinguished Professor in Statistics and Director of the Centre for Data Science at QUT, Brisbane. Her research interests focus on the development of new statistical machine learning methods and computational algorithms motivated by, and as contributions to, challenges in health, the environment and industry. Most of her work is undertaken in close collaboration with teams of researchers and practitioners. Kerrie is a member of the Australian Academy of Science and the Academy of Social Sciences.',
           },
           {
             name: 'Professor Yan Li',
@@ -244,13 +268,13 @@ export default {
             bio: 'Prof Yan Li is a full Professor in Artificial Intelligence and the Associate Head (Research) for the School of Mathematics, Physics and Computing at University of Southern Queensland (UniSQ). Her research interests lie in the areas of Artificial Intelligence, Machine Learning, Big Data Technologies, Signal/Image Processing, Cybersecurity, and Network and Internet Technologies. Prof Yan Li has published more than 220 publications, supervised dozens of PhD completions, and obtained significant research grants from government bodies and through international collaborations. She is a current member of Australia Research Council (ARC) College of Experts.',
           },
           {
-            name: 'Professor Steven McPhail',
-            pic: 's.mcphail.png',
-            position: 'Faculty of Health, School of Public Health & Social Work, Queensland University of Technology',
-            email: 'steven.mcphail@qut.edu.au',
-            topic: '',
-            abstract: '',
-            bio: 'Steve is a health systems innovator, health services researcher, health economist and clinician. He is Director of the Australian Centre for Health Services Innovation (AusHSI) and Academic Director of the Centre for Healthcare Transformation at the Queensland University of Technology, where he is the Professor of Health Services Research. He is passionate about empowering health services to deliver high-value patient-centered care, particularly improving care for vulnerable members of our community and their families. He has published more than 200 peer-reviewed journal articles, been awarded more than $100 million in competitive research funding and his work has been cited in policy-related documents from the World Bank and World Health Organisation. Steve also co-leads the MRFF funded CHD Life+ research program.',
+            name: 'Professor Zhiyong Li',
+            pic: 'z.li.png',
+            position: 'Professor in Biomedical Engineering, Queensland University of Technology',
+            email: 'zhiyong.li@qut.edu.au',
+            topic: 'Medical imaging data based biomechanical modelling for an improved diagnosis of cardiovascular diseases',
+            abstract: 'I will introduce our work in image-based computational modelling techniques which can accurately quantify the biomechanical parameters that are associated with plaque vulnerability. Our results from patient data demonstrated this approach could better detect the vulnerable plaques. I will summarize our work in imaging-based computational modelling and simulation of the interaction between blood flow and atherosclerotic plaque. I will also discuss our recent developments in multiphysical modelling of plaque progression and destabilization. The model development builds upon current understanding of plaque vulnerability to develop patient-specific models for the individual quantification of plaque progression. The computational analysis can be incorporated into medical imaging technology, leading to a considerable advancement of medical imaging technology and industry. The developed patient-specific model and the new risk factors can be used to better assess plaque vulnerability, make more accurate predictions for plaque rupture, and allow actions to be taken in a timely manner to reduce risk of eventual fatal events on an individual basis. Other applications of our computational methods and models, including brain aneurysm and atrial fibrillation will also be discussed in the talk.',
+            bio: 'Zhiyong is a Professor in Biomedical Engineering at QUT. He has a long-term research interest in cardiovascular diseases (atherosclerosis, aneurysm, atrial affiliation). The main focus of his work has been the development of novel technologies to quantify blood flow and vessel characteristics to better prevent stroke and heart attack. His expertise includes medical imaging and image analysis, computational fluid dynamics, mathematical modelling and numerical methods. He has made significant contributions to the field with over 200 publications in high-quality journals.',
           },
           {
             name: 'Dr Sundresan Naicker',
@@ -302,7 +326,7 @@ export default {
             pic: 'y.gao.png',
             position: 'Director, Institute for Integrated and Intelligent Systems, Griffith University, Australia',
             email: 'yongsheng.gao@griffith.edu.au',
-            topic: 'Biometrics and artificial intelligence',
+            topic: 'Classifying images when only a single (or very few) example is available',
             abstract: '',
             bio: 'Professor Yongsheng Gao is an active researcher with international reputation in person identification and environmental informatics research. His research spans computer vision, pattern recognition, biosecurity, pest and disease recognition, vison for agriculture, face recognition, medical imaging, biomedical engineering, and system integration. He has made significant contributions to both fundamental theories and applied research that can solve important industrial problems and published in prestigious or reputable journals.',
           },

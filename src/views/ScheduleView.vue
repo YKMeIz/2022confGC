@@ -77,6 +77,10 @@
                         <strong>Professor Hongxiang Zhang</strong>, Secretary General of Chinese
                         Society of Biotechnology, China
                       </li>
+                      <li>
+                        <strong>Dr Zongze Ruan</strong>, Consul-General of Consulate-General of
+                        People’s Republic of China in Brisbane.
+                      </li>
                     </ol>
                     </p>
                   </div>
@@ -215,7 +219,7 @@
                     </p>
                   </div>
                   <div class="tile-action text-gray">
-                    Chair: Prof. Jianming Yong
+                    Chair: Prof. Yuantong Gu
                   </div>
                 </div>
               </div>
