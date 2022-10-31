@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="section section-features bg-primary text-light text-center">
+    <div class="section section-features bg-gray text-center">
       <div class="container grid-lg">
         <h2>Venue and Accommodation</h2>
         <div class="columns">
@@ -15,9 +15,9 @@
             </p>
             <p>
               Hotel Tel: 61 7 5592 9722<br>
-              Hotel Email: <u><a class="text-secondary"
+              Hotel Email: <a
                                    href="mailto:courtney.gough@jwmarriott.com">
-              courtney.gough@jwmarriott.com</a></u>
+              courtney.gough@jwmarriott.com</a>
             </p>
           </div>
         </div>

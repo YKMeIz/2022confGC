@@ -25,8 +25,6 @@
                 </a></li>
                 <li class="menu-item"><a class="btn btn-link" href="#/contact">
                   Contact Us</a></li>
-                <li class="menu-item"><a class="btn btn-link" href="#/sponsors">
-                  Sponsors</a></li>
                 <li class="menu-item"><a class="btn btn-link" href="#/venue">
                   Venue
                 </a></li>
@@ -39,7 +37,6 @@
               <a href="#/registration" class="btn btn-link">Registration</a>
               <a href="#/schedule" class="btn btn-link">Conference Program</a>
               <a href="#/contact" class="btn btn-link">Contact</a>
-              <a href="#/sponsors" class="btn btn-link">Sponsors</a>
               <a href="#/venue" class="btn btn-link">Venue</a>
             </div>
           </section>
@@ -50,7 +47,7 @@
            class="img-responsive"
            alt="..." v-if="$route.path==='/'">
       <br>
-      <h2>November 24-25, 2022<br>Gold coast, Australia</h2>
+      <h2>November 24-25, 2022<br>JW Marriott Hotel, Gold coast, Australia</h2>
       <div class="column col-10 col-sm-12 col-mx-auto" v-if="$route.path==='/'">
         <a class="btn btn-lg btn-primary" href="https://forms.office.com/r/9fkwd8JTFZ">
           Register Now</a>

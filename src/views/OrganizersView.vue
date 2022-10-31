@@ -33,7 +33,7 @@
         </div>
       </div>
     </div>
-    <div class="section section-features bg-primary text-light text-center">
+    <div class="section section-features bg-gray text-center">
       <div class="container grid-lg">
         <h2>Organizing Committee</h2>
         <div class="columns">

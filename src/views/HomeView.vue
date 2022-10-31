@@ -10,8 +10,9 @@
               insights and decision-making, and are becoming increasingly important in health
               research and medical practises. Since the start of Covid, the development of advanced
               data analysis technologies and wearable device-based disease management become
-              increasingly commonplace in healthcare practises. Led by Griffith University,
-              universities in Queensland – Griffith University, Queensland University of Technology,
+              increasingly commonplace in healthcare practises. Led by Griffith University, Chinese
+              Society of Biotechnology and universities in Queensland – Griffith University,
+              Queensland University of Technology,
               University of Queensland, and University of Southern Queensland have developed such
               multidisciplinary expertise and a team of leading experts will work together to hold
               this conference. The Conference on Integration of Data Science, Information Management
@@ -64,12 +65,12 @@
       </div>
     </div>
 
-    <div class="section section-features bg-primary text-light text-center">
+    <div class="section section-features bg-gray text-center">
       <div class="container grid-lg">
         <h2>The Conference Format</h2>
         <div class="columns">
           <div class="column col-10 col-sm-12 col-mx-auto text-left">
-            <p class="text-secondary text-justify">
+            <p class="text-justify">
               The conference will feature a series of invited plenary and keynote speeches by world
               class eminent scholars on critical issues that are important to scholars in Australia
               and Asia-Pacific Regions. It will include a two-day plenary session, in the following

@@ -27,9 +27,9 @@
                 <div class="tile">
                   <div class="tile-content">
                     <p class="tile-subtitle">8:30am</p>
-                    <p class="tile-title">Arrivals/registration<br>
+                    <p class="tile-title"><strong>Arrivals/registration</strong><br>
                       Location/venue: JW Marriott Gold Coast, Tamborine Gallery,
-                      158 Ferny Avenue, Gold Coast
+                      158 Ferny Avenue, Gold Coast, QLD 4217
                     </p>
                   </div>
                 </div>
@@ -43,9 +43,9 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">8:45am</p>
                     <p class="tile-title">
-                      Greetings from the conference chairs: Prof. Jing Sun (chair), Professor
-                      Yuantong
-                      Gu (Co-chair), Professor Zhiyong Li (co-chair), Professor Di Yu (co-chair)
+                      Greetings from the conference chairs: Prof. Jing Sun, Professor Zhiyong Li,
+                      Professor Yuantong Gu, Professor Di Yu, Professor Jianming Yong, Professor
+                      Alan Liew
                     </p>
                   </div>
                 </div>
@@ -63,14 +63,15 @@
                       <strong>OPENING KEYNOTE ADDRESS</strong>
                     <ol>
                       <li>
-                        <strong>Professor Scott Sheppard</strong>, Deputy Vice-Chancellor and
-                        Vice-President, International and External Relations, Queensland University
-                        of
-                        Technology, Australia
+                        Representative, Griffith University (TBC)
                       </li>
                       <li>
-                        <strong>Professor John Bell</strong>, University of Southern Queensland,
-                        Australia
+                        <strong>Professor John Bell</strong>, Deputy Vice Chancellor (Research and
+                        Innovation), University of Southern Queensland, Australia
+                      </li>
+                      <li>
+                        <strong>Professor Yuantong Gu</strong>, Head of School, Mechanical, Medical
+                        and Process Engineering, Queensland University of Technology, Australia
                       </li>
                       <li>
                         <strong>Professor Hongxiang Zhang</strong>, Secretary General of Chinese
@@ -265,7 +266,7 @@
                     <p class="tile-title">
                       <strong>Professor Yan Li</strong>, University of Southern Queensland,
                       Australia
-                      Title: Artificial intelligence for health and independent living
+                      Title: Sleep stages classification using artificial intelligence technology
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -302,10 +303,10 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">3:40pm</p>
                     <p class="tile-title">
-                      <strong>Professor Yuantong Gu</strong>, Queensland University of Technology,
+                      <strong>Professor Zhiyong Li</strong>, Queensland University of Technology,
                       Australia
-                      <br>Topic: Collaborative and Transformative Research in Biomedical Technology
-                      at QUT
+                      <br>Topic: Medical imaging data based biomechanical modelling for an improved
+                      diagnosis of cardiovascular diseases
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -323,7 +324,7 @@
                     <p class="tile-subtitle">4:10pm</p>
                     <p class="tile-title">
                       <strong>Professor Qi Liu</strong>, Tongji University, Shanghai, China
-                      <br>Topic: Towards AI-based Omics Analysis for Immune-Oncology Study
+                      <br>Topic: Towards AI-based omics analysis for immune-oncology study
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -465,7 +466,7 @@
                     <p class="tile-title">
                       <strong>Professor Xiaohui Tao</strong>, School of Mathematics, Physics and
                       Computing, University of Southern Queensland, Australia
-                      <br>Topic: The Pursuit of Human-centered AI for P4 Medicine (confirmed)
+                      <br>Topic: The pursuit of human-centered AI for P4 medicine
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -559,8 +560,8 @@
                       Information
                       & Communication Technology, and the Deputy Director of the Institute for
                       Integrated Intelligent Systems (Griffith University)
-                      <br>Topic: Governing in the Digital Age: Use of Data for Better Policies and
-                      Public Services
+                      <br>Topic: Governing in the digital age: Use of data for better policies and
+                      public services
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -614,7 +615,8 @@
                     <p class="tile-title">
                       <strong>Professor Yongsheng Gao</strong>, Director of Integrated Intelligence
                       and Systems, Griffith University
-                      <br>Topic: Biometrics and artificial intelligence
+                      <br>Topic: Classifying images when only a single (or very few) example is
+                      available
                     </p>
                   </div>
                   <div class="tile-action text-gray">

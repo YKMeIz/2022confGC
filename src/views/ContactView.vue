@@ -1,5 +1,5 @@
 <template>
-  <div class="section section-features bg-primary text-light text-center">
+  <div class="section section-features bg-gray text-center">
     <div class="container grid-lg">
       <h2>Contact</h2>
       <div class="columns">
@@ -9,21 +9,10 @@
             <dt>Dawei Xu
             </dt>
             <dd>
-              <u><a class="text-secondary"
+              <a
                     href="mailto:dawei.xu@griffithuni.edu.au">
-                dawei.xu@griffithuni.edu.au</a></u><br>
+                dawei.xu@griffithuni.edu.au</a><br>
               Phone: +61 0452043223
-            </dd>
-          </dl>
-          <br><br>
-          <p>For other enquires:</p>
-          <dl>
-            <dt>Yanni Li
-            </dt>
-            <dd>
-              <u><a class="text-secondary"
-                        href="mailto:yanni.li2@griffithuni.edu.au">
-              yanni.li2@griffithuni.edu.au</a></u><br>
             </dd>
           </dl>
         </div>

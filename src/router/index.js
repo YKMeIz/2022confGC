@@ -4,7 +4,6 @@ import ContactView from '@/views/ContactView.vue';
 import OrganizersView from '@/views/OrganizersView.vue';
 import RegistrationView from '@/views/RegistrationView.vue';
 import SpeakersView from '@/views/SpeakersView.vue';
-import SponsorsView from '@/views/SponsorsView.vue';
 import VenueView from '@/views/VenueView.vue';
 import ScheduleView from '@/views/ScheduleView.vue';
 
@@ -33,11 +32,6 @@ const routes = [
     path: '/speakers',
     name: 'speakers',
     component: SpeakersView,
-  },
-  {
-    path: '/sponsors',
-    name: 'sponsors',
-    component: SponsorsView,
   },
   {
     path: '/venue',

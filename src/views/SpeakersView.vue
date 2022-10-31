@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="section section-features bg-primary text-light text-center">
+    <div class="section section-features bg-gray text-center">
       <div class="container grid-lg">
         <h2>Opening Keynote Address VIP Speakers</h2>
         <div class="columns">
@@ -92,12 +92,6 @@ export default {
     return {
       speakers: {
         keynote: [
-          {
-            name: 'Professor Scott Sheppard',
-            pic: 's.sheppard.png',
-            position: 'Chancellery Division, International, Office of the DVC & VP (Intern. & Ext. Relations), Queensland University of Technology',
-            bio: 'Professor Scott Sheppard is the Deputy Vice-Chancellor and Vice-President (International and External Relations) at QUT. He leads the University’s international and external relations activities, and his portfolio includes QUT International, Marketing and Communications, Government Relations & Policy and The Confucius Institute at QUT (CIQ). Background In his career, Scott has held leadership roles across government and the education and training sector. A former Diplomat for Australia, Scott has lived and worked in Taiwan, Hong Kong, Shanghai and Beijing for more than 12 years.',
-          },
           {
             name: 'Professor John Bell',
             pic: 'j.bell.png',
