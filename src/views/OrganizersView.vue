@@ -22,11 +22,11 @@
                 <p class="tile-content text-justify">
                   {{ people.bio }}
                 </p>
-<!--                <div v-if="people.areas">-->
-<!--                  <ul v-for="area in people.areas" :key="area">-->
-<!--                    <li>{{ area }}</li>-->
-<!--                  </ul>-->
-<!--                </div>-->
+                <!--                <div v-if="people.areas">-->
+                <!--                  <ul v-for="area in people.areas" :key="area">-->
+                <!--                    <li>{{ area }}</li>-->
+                <!--                  </ul>-->
+                <!--                </div>-->
               </div>
             </div>
           </div>
@@ -42,12 +42,10 @@
               <li>
                 Dawei Xu, Griffith University
               </li>
-              <li>
-                Professor Zhiyong Li's Staff: Yaozhong Ge
-              </li>
-              <li>
-                Professor Zhiyong Li's Student: Haveena Anbananthan
-              </li>
+              <li>Yaozhong Ge, Queensland University of Technology</li>
+              <li>Haveena Anbananthan, Queensland University of Technology</li>
+              <li>Jessica Benitez Mendieta, Queensland University of Technology</li>
+              <li>Zhengduo Zhu, Queensland University of Technology</li>
             </ul>
           </div>
         </div>
