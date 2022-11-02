@@ -317,8 +317,8 @@ export default {
             pic: 'a.liew.png',
             position: 'School of Information and Communication Technology, Griffith University, Australia',
             email: 'a.liew@griffith.edu.au',
-            topic: 'Governing in the Digital Age: Use of Data for Better Policies and Public Services',
-            abstract: '',
+            topic: 'AI for Health: Data Privacy and Model Protection',
+            abstract: 'Recently we have seen a proliferation of AI in healthcare applications. However, the research focus so far is on improving the predictive analytic performance, for example, predicting the possibility of a patience developing sepsis from a set of clinical measurements, or detection of COVID from chest x-ray image. Relatively little attention is placed on the various issues surrounding the AI model development and deployment in the real world. This talk discusses solutions to two major challenges in AI model development/deployment: how to deal with sensitive data during model development and how to protect the AI models from intellectual theft during model deployment.',
             bio: 'Alan Liew is currently the Head of School, the School of Information & Communication Technology, and the Deputy Director of the Institute for Integrated Intelligent Systems (IIIS), at Griffith University, Australia. His research interest is in the field of AI, machine learning, medical imaging, computer vision, and bioinformatics. He is leading the medical/health informatics stream in IIIS, and is engaging with the Menzies Health Institute, the Gold Coast University Hospital, Queensland Health, and the Precision Medicine Data Platform (PMDP) on several collaborative projects.',
           },
           {
