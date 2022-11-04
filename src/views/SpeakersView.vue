@@ -131,7 +131,7 @@ export default {
         ],
         chn: [
           {
-            name: 'Yunsheng Chen, Professor',
+            name: 'Runsheng Chen, Professor',
             pic: 'y.chen.png',
             position: 'Academician of CAS, Institute of Biophysics, Chinese Academy of Sciences, China',
             email: 'chenrs@ibp.ac.cn',

@@ -4,17 +4,22 @@
       <h2>Sponsors</h2>
       <br>
       <div class="columns">
-        <!--        <div class="column col-4 col-xs-12">-->
-        <!--          <a href="https://www.qld.gov.au/">-->
-        <!--            <img src="https://www.qld.gov.au/__data/assets/git_bridge/0029/95447/static.qgov.net.au/assets/v4/latest/images/coat-of-arms/qg-coa-white.svg"-->
-        <!--                  alt="Queensland Government">-->
-        <!--          </a>-->
-        <!--        </div>-->
         <div class="column col-4 col-xs-10 col-mx-auto">
           <a href="https://www.griffith.edu.au/">
             <img
               src="https://www.griffith.edu.au/__data/assets/file/0027/464823/griffith-logo-qld-white.svg?v=0.1.2"
               alt="Griffith University">
+          </a>
+        </div>
+        <div class="column col-4 col-xs-10 col-mx-auto">
+<!--          <a href="https://www.qld.gov.au/">-->
+<!--            <img src="https://www.qld.gov.au/__data/assets/git_bridge/0029/95447/static.qgov.net.au/assets/v4/latest/images/coat-of-arms/qg-coa-white.svg"-->
+<!--                 alt="Queensland Government">-->
+<!--          </a>-->
+          <a href="https://www.qld.gov.au/">
+            <img src="https://budget.qld.gov.au/files/qg-coa-stacked-rev1.png"
+                 style="width:100%"
+                 alt="Queensland Government">
           </a>
         </div>
         <div class="column col-4 col-xs-10 col-mx-auto">

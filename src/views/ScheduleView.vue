@@ -27,25 +27,7 @@
                 <div class="tile">
                   <div class="tile-content">
                     <p class="tile-subtitle">8:30am</p>
-                    <p class="tile-title"><strong>Arrivals/registration</strong><br>
-                      Location/venue: JW Marriott Gold Coast, Tamborine Gallery,
-                      158 Ferny Avenue, Gold Coast, QLD 4217
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="timeline-item">
-              <div class="timeline-left"><a class="timeline-icon">.</a></div>
-              <div class="timeline-content">
-                <div class="tile">
-                  <div class="tile-content">
-                    <p class="tile-subtitle">8:45am</p>
-                    <p class="tile-title">
-                      Greetings from the conference chairs: Prof. Jing Sun, Professor Zhiyong Li,
-                      Professor Yuantong Gu, Professor Di Yu, Professor Jianming Yong, Professor
-                      Alan Liew
+                    <p class="tile-title"><strong>Arrivals/registration</strong>
                     </p>
                   </div>
                 </div>
@@ -59,33 +41,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">9:00am</p>
                     <p class="tile-title">
-                      Venue: JW Marriott Gold Coast, Tamborine Gallery<br>
-                      <strong>OPENING KEYNOTE ADDRESS</strong>
-                    <ol>
-                      <li>
-                        Representative, Griffith University (TBC)
-                      </li>
-                      <li>
-                        <strong>Professor John Bell</strong>, Deputy Vice Chancellor (Research and
-                        Innovation), University of Southern Queensland, Australia
-                      </li>
-                      <li>
-                        <strong>Professor Yuantong Gu</strong>, Head of School, Mechanical, Medical
-                        and Process Engineering, Queensland University of Technology, Australia
-                      </li>
-                      <li>
-                        <strong>Professor Hongxiang Zhang</strong>, Secretary General of Chinese
-                        Society of Biotechnology, China
-                      </li>
-                      <li>
-                        <strong>Dr Zongze Ruan</strong>, Consul-General of Consulate-General of
-                        People’s Republic of China in Brisbane.
-                      </li>
-                    </ol>
+                      <strong>Introduction from the conference chairs</strong>
                     </p>
-                  </div>
-                  <div class="tile-action text-gray">
-                    Chair: Prof. Jing Sun
                   </div>
                 </div>
               </div>
@@ -120,7 +77,7 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">10:10am</p>
                     <p class="tile-title">
-                      <strong>Professor Yunsheng Chen</strong>, Professor, Academician of CAS,
+                      <strong>Professor Runsheng Chen</strong>, Professor, Academician of CAS,
                       Institute of Biophysics, Chinese Academy of Sciences, China
                       <br>Topic: Bioinformatics and noncoding RNA
                     </p>
@@ -139,8 +96,7 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">10:40am</p>
                     <p class="tile-title">
-                      <strong>MORNING TEA</strong> (30 minutes – venue: JW Marriott Gold Coast,
-                      Tamborine Foyer)
+                      <strong>MORNING TEA</strong>
                     </p>
                   </div>
                 </div>
@@ -199,8 +155,7 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">12:10am</p>
                     <p class="tile-title">
-                      <strong>LUNCH BREAK</strong> (60 minutes – venue: JW Marriott Gold Coast,
-                      Tamborine Foyer)
+                      <strong>LUNCH BREAK</strong>
                     </p>
                   </div>
                 </div>
@@ -253,8 +208,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">2:10pm</p>
                     <p class="tile-title">
-                      <strong>AFTERNOON TEA</strong> (30 minutes – venue: JW Marriott Gold Coast,
-                      Tamborine Foyer)
+                      <strong>AFTERNOON TEA</strong>
+
                     </p>
                   </div>
                 </div>
@@ -269,7 +224,7 @@
                     <p class="tile-subtitle">2:40pm</p>
                     <p class="tile-title">
                       <strong>Professor Yan Li</strong>, University of Southern Queensland,
-                      Australia
+                      Australia<br>
                       Title: Sleep stages classification using artificial intelligence technology
                     </p>
                   </div>
@@ -367,6 +322,25 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">5:10pm</p>
                     <p class="tile-title">
+                      <strong>Prof Youqiong Ye</strong>, Shanghai Jiaotong University, China
+                      <br>Topic: Reconstruction of the tumor spatial microenvironment along the
+                      malignant-boundary-nonmalignant axis
+                    </p>
+                  </div>
+                  <div class="tile-action text-gray">
+                    Chair: Prof. Yu Xue
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="timeline-item">
+              <div class="timeline-left"><a class="timeline-icon">.</a></div>
+              <div class="timeline-content">
+                <div class="tile">
+                  <div class="tile-content">
+                    <p class="tile-subtitle">5:40pm</p>
+                    <p class="tile-title">
                       <strong>Break</strong>
                     </p>
                   </div>
@@ -398,8 +372,7 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">8:30am</p>
                     <p class="tile-title">
-                      <strong>Arrival</strong> (Tamborine Gallery, JW Marriott Gold Coast, 158 Ferny
-                      Avenue, Gold Coast, QLD 4217)
+                      <strong>Arrival</strong>
                     </p>
                   </div>
                 </div>
@@ -450,7 +423,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">9:40am</p>
                     <p class="tile-title">
-                      <strong>Professor Fangqing Zhao</strong><br>
+                      <strong>Professor Fangqing Zhao</strong>, Beijing Institutes of Life Science,
+                      Chinese Academy of Sciences, Beijing, China<br>
                       Topic: Novel methods in microbiome data integration and their applications
                     </p>
                   </div>
@@ -487,8 +461,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">10:40am</p>
                     <p class="tile-title">
-                      <strong>MORNING TEA</strong> (30 minutes – venue: JW Marriott Gold Coast,
-                      Tamborine Foyer)
+                      <strong>MORNING TEA</strong>
+
                     </p>
                   </div>
                 </div>
@@ -545,8 +519,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">12:10am</p>
                     <p class="tile-title">
-                      <strong>LUNCH BREAK</strong> (60 minutes – venue: JW Marriott Gold Coast,
-                      Tamborine Foyer)
+                      <strong>LUNCH BREAK</strong>
+
                     </p>
                   </div>
                 </div>
@@ -564,8 +538,7 @@
                       Information
                       & Communication Technology, and the Deputy Director of the Institute for
                       Integrated Intelligent Systems (Griffith University)
-                      <br>Topic: Governing in the digital age: Use of data for better policies and
-                      public services
+                      <br>Topic: AI for Health: Data Privacy and Model Protection
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -602,8 +575,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">2:10pm</p>
                     <p class="tile-title">
-                      <strong>AFTERNOON TEA</strong> (30 minutes – venue: JW Marriott Gold Coast,
-                      Tamborine Foyer)
+                      <strong>AFTERNOON TEA</strong>
+
                     </p>
                   </div>
                 </div>
@@ -653,15 +626,17 @@
               <div class="timeline-content">
                 <div class="tile">
                   <div class="tile-content">
-                    <p class="tile-subtitle">3:40pm</p>
+                    <p class="tile-subtitle">3:25pm</p>
                     <p class="tile-title">
-                      <strong>Ms. Jodie Austin</strong>, University of Queensland
+                      <strong>Ms. Jodie Austin</strong> Clinical Informatics Director,
+                      SMART Hub, Queensland Digital Health Centre, University of
+                      Queensland, Australia
                       <br>Topic: Harnessing electronic medical record data to enhance medication
                       safety
                     </p>
                   </div>
                   <div class="tile-action text-gray">
-                    Chair: Prof. Alan Liew
+                    Chair: Prof. Di Yu
                   </div>
                 </div>
               </div>
@@ -672,29 +647,9 @@
               <div class="timeline-content">
                 <div class="tile">
                   <div class="tile-content">
-                    <p class="tile-subtitle">4:10pm</p>
+                    <p class="tile-subtitle">3:40pm</p>
                     <p class="tile-title">
-                      <strong>Prof Youqiong Ye</strong>, Shanghai Jiaotong University, China
-                      <br>Topic: Reconstruction of the tumor spatial microenvironment along the
-                      malignant-boundary-nonmalignant axis
-                    </p>
-                  </div>
-                  <div class="tile-action text-gray">
-                    Chair: Prof. Yu Xue
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="timeline-item">
-              <div class="timeline-left"><a class="timeline-icon">.</a></div>
-              <div class="timeline-content">
-                <div class="tile">
-                  <div class="tile-content">
-                    <p class="tile-subtitle">4:40pm</p>
-                    <p class="tile-title">
-                      <strong>Statements of next conference in China and conference
-                        concludes</strong>
+                      <strong>Workshop concludes</strong>
                     </p>
                   </div>
                   <div class="tile-action text-gray">
