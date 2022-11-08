@@ -6,7 +6,8 @@
         <div class="columns">
           <div class="column col-10 col-sm-12 col-mx-auto">
             <img :src="require('@/assets/g07.png')" alt="..." style="width:100%"/>
-            <p>G07 Function Centre</p>
+            <h1>G07 Function Centre</h1>
+            <p>Griffith University, Gold Coast Campus, 1 Parklands Dr, Southport, QLD 4222</p>
           </div>
         </div>
         <!--        <div class="columns">-->
@@ -100,31 +101,31 @@
       </div>
     </div>
 
-<!--    <div class="section section-features bg-gray text-center">-->
-<!--      <div class="container grid-lg">-->
-<!--        <h2>Alternative Accommodation Options</h2>-->
-<!--        <div class="columns">-->
-<!--          <div class="column col-10 col-sm-12 col-mx-auto">-->
-<!--            <p>-->
-<!--<strong>Mantra Legends Surfers Paradise</strong><br>-->
-<!--Website: <a-->
-<!--href="https://www.mantra.com.au/queensland/gold-coast/surfers-paradise/accommodation/hotels/mantra-legends-hotel/">Click-->
-<!--link here</a>-->
-<!--<br>Tel: (07) 5588 7879-->
-<!--<br>Address: 25 Laycock Street, Surfers Paradise, QLD 4217, Australia-->
-<!--            </p>-->
-<!--            <p>-->
-<!--<strong>Mantra Southport Sharks</strong><br>-->
-<!--Website: <a-->
-<!--href="https://www.mantra.com.au/queensland/gold-coast/southport/accommodation/mantra-at-sharks/">Click-->
-<!--link here</a>-->
-<!--<br>Tel: (07) 5603 3200-->
-<!--<br>Address: Melia Ct, Southport, QLD 4215, Australia-->
-<!--            </p>-->
-<!--          </div>-->
-<!--        </div>-->
-<!--      </div>-->
-<!--    </div>-->
+    <div class="section section-features bg-gray text-center">
+      <div class="container grid-lg">
+        <h2>Accommodation</h2>
+        <div class="columns">
+          <div class="column col-10 col-sm-12 col-mx-auto">
+            <p>
+<strong>Mantra Legends Surfers Paradise</strong><br>
+Website: <a
+href="https://www.mantra.com.au/queensland/gold-coast/surfers-paradise/accommodation/hotels/mantra-legends-hotel/">Click
+link here</a>
+<br>Tel: (07) 5588 7879
+<br>Address: 25 Laycock Street, Surfers Paradise, QLD 4217, Australia
+            </p>
+            <p>
+<strong>Mantra Southport Sharks</strong><br>
+Website: <a
+href="https://www.mantra.com.au/queensland/gold-coast/southport/accommodation/mantra-at-sharks/">Click
+link here</a>
+<br>Tel: (07) 5603 3200
+<br>Address: Melia Ct, Southport, QLD 4215, Australia
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
 
   </div>
 </template>

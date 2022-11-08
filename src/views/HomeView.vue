@@ -8,16 +8,20 @@
             <p class="text-secondary text-justify">
               Big data, information management, and digital technologies can provide actionable
               insights and decision-making, and are becoming increasingly important in health
-              research and medical practises. Since the start of Covid, the development of advanced
-              data analysis technologies and wearable device-based disease management become
-              increasingly commonplace in healthcare practises. Led by Griffith University, Chinese
-              Society of Biotechnology and universities in Queensland – Griffith University,
-              Queensland University of Technology,
-              University of Queensland, and University of Southern Queensland have developed such
-              multidisciplinary expertise and a team of leading experts will work together to hold
-              this conference. The Conference on Integration of Data Science, Information Management
-              and Digital Technology into Health Research serves as an excellent platform to bring
-              these experts together to exchange ideas and engage with industry partners.
+              research and medical practices. Since the start of COVID-19 pandemic, the development
+              of advanced data analysis technologies and wearable device-based disease management
+              become increasingly commonplace in healthcare practices. To further advance the
+              development of health research and practices, we need multidisciplinary expertise in
+              areas including software development, data management and cybersecurity, as well as
+              computational analysis and data integration. Led by Griffith University, Queensland
+              Government, Chinese Society of Biotechnology together with Queensland University of
+              Technology, University of Queensland, and University of Southern Queensland, a team of
+              leading experts will work together to hold this conference. The Conference on
+              Integration of Data Science, Information Management and Digital Technology into Health
+              Research serves as an excellent platform to bring these experts together to exchange
+              ideas and engage with industry partners. The conference also serves the purpose of
+              showcasing research excellence in Queensland, attracting students, businesses, and
+              academics from Asia to study, invest and collaborate with partners in Queensland.
             </p>
           </div>
         </div>
@@ -26,7 +30,7 @@
 
     <div class="section section-updates bg-gray text-center">
       <div class="container grid-lg">
-        <h2>Aims</h2>
+        <h2>Purpose of The Conference</h2>
         <div class="columns">
           <div class="column col-3 col-xs-12">
             <div class="card">
@@ -56,8 +60,8 @@
           <div class="column col-3 col-xs-12">
             <div class="card">
               <div class="card-body">
-                To further develop our understanding of important and emerging issues in
-                Australia’s research, education, economy, and society after the COVID-19 pandemic.
+                To further develop our understanding of important and emerging issues in Australia’s
+                research, education, economy, and society after the COVID-19 pandemic.
               </div>
             </div>
           </div>
@@ -67,26 +71,20 @@
 
     <div class="section section-features bg-gray text-center">
       <div class="container grid-lg">
-        <h2>The Conference Format</h2>
+        <h2>The Conference Topics</h2>
         <div class="columns">
           <div class="column col-10 col-sm-12 col-mx-auto text-left">
             <p class="text-justify">
-              The conference will feature a series of invited plenary and keynote speeches by world
-              class eminent scholars on critical issues that are important to scholars in Australia
-              and Asia-Pacific Regions. It will include a two-day plenary session, in the following
-              areas, but not limited to:
+              Two days’ conference will cover the ranges of topics from bioinformatics, machine
+              learning, artificial intelligence, biostatistics and their applications to research in
+              chronic disease, cancer, brain, pediatrics, and health care, e-data system
+              development.
             </p>
-            <ul>
-              <li>Bioinformatics</li>
-              <li>OMICS data analysis</li>
-              <li>Machine learning and artificial intelligence</li>
-              <li>Biostatistics and their applications to research in chronic disease, cancer, brain
-                disease
-              </li>
-              <li>Paediatrics and health care</li>
-              <li>E-data system development</li>
-              <li>Cross-Disciplinary Research</li>
-            </ul>
+            <p class="text-justify">
+              The topics address important area and unmet needs in the health research area and is
+              critical to the health and medical research and evidence- based health care
+              development in worldwide.
+            </p>
           </div>
         </div>
       </div>

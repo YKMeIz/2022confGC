@@ -12,10 +12,10 @@
           </a>
         </div>
         <div class="column col-4 col-xs-10 col-mx-auto">
-<!--          <a href="https://www.qld.gov.au/">-->
-<!--            <img src="https://www.qld.gov.au/__data/assets/git_bridge/0029/95447/static.qgov.net.au/assets/v4/latest/images/coat-of-arms/qg-coa-white.svg"-->
-<!--                 alt="Queensland Government">-->
-<!--          </a>-->
+          <!--          <a href="https://www.qld.gov.au/">-->
+          <!--            <img src="https://www.qld.gov.au/__data/assets/git_bridge/0029/95447/static.qgov.net.au/assets/v4/latest/images/coat-of-arms/qg-coa-white.svg"-->
+          <!--                 alt="Queensland Government">-->
+          <!--          </a>-->
           <a href="https://www.qld.gov.au/">
             <img src="https://budget.qld.gov.au/files/qg-coa-stacked-rev1.png"
                  style="width:100%"
@@ -32,8 +32,9 @@
       <div class="columns">
         <div class="column col-4 col-xs-10 col-mx-auto">
           <a href="https://qut.edu.au/">
-            <img src="https://www.qut.edu.au/__data/assets/file/0010/894628/logo-strapline-two-deck-right.svg?v=0.0.1"
-                 alt="Queensland University of Technology">
+            <img
+              src="https://www.qut.edu.au/__data/assets/file/0010/894628/logo-strapline-two-deck-right.svg?v=0.0.1"
+              alt="Queensland University of Technology">
           </a>
         </div>
         <div class="column col-4 col-xs-10 col-mx-auto">
@@ -45,18 +46,39 @@
         </div>
         <div class="column col-4 col-xs-10 col-mx-auto">
           <a href="https://www.unisq.edu.au/">
-            <img src="https://www.unisq.edu.au/Content/USQ/Charlie/Images/unisq-logo-acronym-white.svg"
-                 style="max-height: 90px"
-                 alt="University of Southern Queensland">
+            <img
+              src="https://www.unisq.edu.au/Content/USQ/Charlie/Images/unisq-logo-acronym-white.svg"
+              style="max-height: 90px"
+              alt="University of Southern Queensland">
           </a>
         </div>
       </div>
     </div>
   </div>
+  <div class="section section-updates bg-gray text-center">
+    <div class="container grid-lg">
+      <h2>Acknowledgement</h2>
+      <br>
+      <p class="text-justify">
+        This project is supported by Queensland Health with co-funding from the Queensland
+        Government’s International Education and Training Partnership Fund, managed by Study
+        Queensland within Trade and Investment Queensland.
+      </p>
+      <p class="text-justify">
+        This project receives financial sponsorship form Griffith university, Queensland University
+        of Technology and University of Southern Queensland.
+      </p>
+      <p class="text-justify">
+        This project is also sponsored by Chinese Society of Biotechnology and The University of
+        Queensland.
+      </p>
+    </div>
+  </div>
   <footer class="section section-footer">
     <div class="docs-footer container grid-lg" id="copyright">
       <p>
-        Copyright © 2022 - All Rights Reserved.
+        Copyright © 2022 Conference on Integration of Data Science, Information Management and
+        Digital Technology into Health and Medical Research. All Rights Reserved.
       </p>
     </div>
   </footer>

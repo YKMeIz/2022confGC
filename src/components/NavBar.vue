@@ -47,7 +47,7 @@
            class="img-responsive"
            alt="..." v-if="$route.path==='/'">
       <br>
-      <h2>November 24-25, 2022<br>Griffith University Gold Coast Campus, Gold coast, Australia</h2>
+      <h2>24-25 November, 2022<br>Griffith University Gold Coast Campus, Gold coast, Australia</h2>
       <div class="column col-10 col-sm-12 col-mx-auto" v-if="$route.path==='/'">
         <a class="btn btn-lg btn-primary" href="https://forms.office.com/r/9fkwd8JTFZ">
           Register Now</a>

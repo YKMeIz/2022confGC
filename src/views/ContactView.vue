@@ -4,7 +4,7 @@
       <h2>Contact</h2>
       <div class="columns">
         <div class="column col-10 col-sm-12 col-mx-auto text-left">
-          <p>For registration enquiry:</p>
+          <p>For all requests:</p>
           <dl>
             <dt>Dawei Xu
             </dt>

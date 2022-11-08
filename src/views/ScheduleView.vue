@@ -110,10 +110,10 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">11:10am</p>
                     <p class="tile-title">
-                      <strong>Professor Brent Richards</strong>, Professor of Critical Care Research
-                      at Gold Coast Hospital and Health Service, Medical Director of Research
-                      Commercialisation and, Gold Coast University Hospital, Adjunct Professor at
-                      Griffith University, Australia
+                      <strong>Professor Brent Richards</strong>, Professor of Critical Care
+                      Research, Gold Coast Hospital and Health Service; Medical Director of Research
+                      Commercialisation, Gold Coast University Hospital; Adjunct Professor, Griffith
+                      University, Australia
                       <br>Topic: Enabling best patient outcome through integration of AI, big data
                       and
                       critical care
@@ -153,7 +153,7 @@
               <div class="timeline-content">
                 <div class="tile">
                   <div class="tile-content">
-                    <p class="tile-subtitle">12:10am</p>
+                    <p class="tile-subtitle">12:10pm</p>
                     <p class="tile-title">
                       <strong>LUNCH BREAK</strong>
                     </p>
@@ -169,7 +169,8 @@
                   <div class="tile-content">
                     <p class="tile-subtitle">1:10pm</p>
                     <p class="tile-title">
-                      <strong>Distinguished Professor Kerrie Mengersen</strong>, Queensland
+                      <strong>Distinguished Professor Kerrie Mengersen, Ms Wala Areed</strong>,
+                      Queensland
                       University of Technology <br>Topic: Where are the vulnerable children?
                     </p>
                   </div>
@@ -353,7 +354,7 @@
               <div class="timeline-content">
                 <div class="tile">
                   <div class="tile-content">
-                    <p class="tile-subtitle">6:30pm</p>
+                    <p class="tile-subtitle">6:00pm</p>
                     <p class="tile-title">
                       <strong>Gala Dinner</strong>
                     </p>
@@ -407,6 +408,9 @@
                     <p class="tile-title">
                       <strong>Associate Professor Jessica Mar</strong>, Health Informatician,
                       University of Queensland
+                      <br>
+                      Topic: Leveraging statistical shapes in single cell genomics: looking beyond
+                      what’s Normal to understand human disease
                     </p>
                   </div>
                   <div class="tile-action text-gray">
@@ -517,7 +521,7 @@
               <div class="timeline-content">
                 <div class="tile">
                   <div class="tile-content">
-                    <p class="tile-subtitle">12:10am</p>
+                    <p class="tile-subtitle">12:10pm</p>
                     <p class="tile-title">
                       <strong>LUNCH BREAK</strong>
 
@@ -616,27 +620,6 @@
                   </div>
                   <div class="tile-action text-gray">
                     Chair: Prof. Yu Xue
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="timeline-item">
-              <div class="timeline-left"><a class="timeline-icon">.</a></div>
-              <div class="timeline-content">
-                <div class="tile">
-                  <div class="tile-content">
-                    <p class="tile-subtitle">3:25pm</p>
-                    <p class="tile-title">
-                      <strong>Ms. Jodie Austin</strong> Clinical Informatics Director,
-                      SMART Hub, Queensland Digital Health Centre, University of
-                      Queensland, Australia
-                      <br>Topic: Harnessing electronic medical record data to enhance medication
-                      safety
-                    </p>
-                  </div>
-                  <div class="tile-action text-gray">
-                    Chair: Prof. Di Yu
                   </div>
                 </div>
               </div>
