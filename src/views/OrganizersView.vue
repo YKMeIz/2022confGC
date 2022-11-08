@@ -138,7 +138,7 @@ export default {
         },
         {
           pic: 'y.ge.png',
-          name: 'Dr Yaozhong Ge',
+          name: 'Mr. Yaozhong Ge',
           position: 'Queensland University of Technology',
           email: 'y.ge@qut.edu.au',
         },
